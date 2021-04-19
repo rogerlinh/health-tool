@@ -25,14 +25,15 @@
   .menu_text {
     display: flex;
     padding-right: 100px;
-    width: 70%;
-    justify-content: space-around;
+    width: 50%;
+    justify-content: space-between;
   
   }
   .menu_text h2 {
     cursor: pointer;
      text-align: center;
-    font-size: 20px;
+    font-size: 17px;
+    font-weight: bold;
   
   }
 

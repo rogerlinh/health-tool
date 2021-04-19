@@ -27,15 +27,25 @@
 .menu_text {
   display: flex;
   padding-right: 100px;
-  width: 70%;
-  justify-content: space-around;
+  width: 60%;
+  justify-content: space-between;
 
 }
-.menu_text h2 {
+.menu_text h2{
   cursor: pointer;
    text-align: center;
-  font-size: 20px;
+  font-size: 17px;
 
+  color: rgb(110, 110, 110);
+  transition: 0.5s;
+  font-weight: bold;
+
+}
+
+
+
+.menu_text h2:hover{
+color: #2d87f3;
 }
 
 /* .search {
