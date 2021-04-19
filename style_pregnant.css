@@ -37,7 +37,7 @@
   }
 
 .header{
-    background: url('image_pregnant/due-date-hero.png');
+    background: url('./due-date-hero.png');
     background-size: cover;
     background-position: center;
     width: 100%;
